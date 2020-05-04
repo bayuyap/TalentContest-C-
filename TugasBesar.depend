@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1588257996 source:d:\my study\std\praktikum\prak\tugasbesar\list_juri.cpp
+	"list_juri.h"
+	<iostream>
+
+1588315847 d:\my study\std\praktikum\prak\tugasbesar\list_juri.h
+	<iostream>
+
+1588317944 source:d:\my study\std\praktikum\prak\tugasbesar\main.cpp
+	<iostream>
+	"list_admin.h"
+	"list_child.h"
+	"list_juri.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1588315847 source:d:\my study\std\praktikum\prak\tugasbesar\list_child.cpp
+	"list_child.h"
+
+1588315847 d:\my study\std\praktikum\prak\tugasbesar\list_child.h
+	<iostream>
+
+1588316848 source:d:\my study\std\praktikum\prak\tugasbesar\list_parent.cpp
+	"list_parent.h"
+	<iostream>
+
+1588316803 d:\my study\std\praktikum\prak\tugasbesar\list_parent.h
+	<iostream>
+
+1588317727 source:d:\my study\std\praktikum\prak\tugasbesar\list_relasi.cpp
+	"list_relasi.h"
+	<iostream>
+
+1588317727 d:\my study\std\praktikum\prak\tugasbesar\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1588174958 source:d:\my study\std\praktikum\prak\tugasbesar\list_admin.cpp
+	"list_admin.h"
+	<iostream>
+
+1588174959 d:\my study\std\praktikum\prak\tugasbesar\list_admin.h
+	<iostream>
+

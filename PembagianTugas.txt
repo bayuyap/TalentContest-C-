@@ -1,0 +1,57 @@
+Andhika Bayu Yudhistira Arda Putra
+1301194147
+Parent
+Procedure createList
+Procedure update_data
+Procedure insertLast
+Procedure deleteFirst
+Procedure deleteLast
+Procedure deleteAfter
+function isEmpty
+Procedure dealokasi_peserta
+Procedure createElemenParent
+function findElm
+Procedure printInfo
+Juri
+Procedure createList
+Procedure createElemen
+function findElemen
+Procedure update
+Procedure deleteFirst
+Procedure deleteAfter
+Procedure deleteLast
+Procedure dealokasi
+Procedure insertFirst
+Procedure insertAfter
+Procedure insertLast
+Procedure insertTerurut
+Procedure lihat_infojuri
+Admin
+Procedure initAdmin
+function loginAdmin
+
+
+
+Sadam Andhika Putra Darmawan
+1301194180
+Child
+Procedure createList
+Procedure insertFirst
+function isEmpty
+Procedure createElemenChild
+function findElm
+Procedure printInfo
+
+Relasi
+Procedure createList
+Procedure insertFirst
+Procedure insertLast
+Procedure insertAfter
+Procedure update_nilai
+Procedure isiNilai
+Procedure deleteNilai
+Procedure createElemenRelasi
+function findElm
+Procedure printInfo
+
+Main.cpp
